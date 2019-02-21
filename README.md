@@ -49,6 +49,10 @@ See the following resources for more information:
 * [How to contribute](https://dev.clojure.org/display/community/Contributing)
 * [Bug Tracker](https://dev.clojure.org/jira/browse/TDEPS)
 
+### Windows Development
+
+See [TDEPS-67](https://dev.clojure.org/jira/browse/TDEPS-67)
+
 ## License
 
 Copyright © 2017 Rich Hickey, Alex Miller and contributors
